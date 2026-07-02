@@ -1,0 +1,12 @@
+# Robots.txt for Zhongsheng Likang Website
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://zhongshenglik.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Disallow sensitive paths (if any)
+# None at this time
